@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Socialmedia - Exploratory Analysis]([Socialmedia Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+		- [Socialmedia - Exploratory Analysis]([Socialmedia Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb)): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
 		
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
 
