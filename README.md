@@ -17,5 +17,5 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Micro Projects: 
 
 	- __Python__
-		- 
+		 -  [ML Using Decision Trees and Random Forests]([Loan Notebook]()): Predicting whether a lender will pay their loan back. Uses publically available data from Kaggle.
 
