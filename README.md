@@ -14,7 +14,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
 
 
-- ### Micro Projects: 
+- ### Micro Projects
 
 	- __Python__
 		 -  [ML Using Decision Trees and Random Forests]([Loan Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/micro%20projects/lending%20loan%20ML/loan_ML_DC_RF.ipynb)): Predicting whether a lender will pay their loan back. Uses publically available data from Kaggle.
