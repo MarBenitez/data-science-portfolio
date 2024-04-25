@@ -7,9 +7,16 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Contents
 
+- ### Machine Learning
+
+	- [Supervised Learning: Titanic dataset]([Titanic FE ML Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_FE_ML.ipynb)): Testing out several different supervised learning algorithms to build a model that accurately predicts which passengers survived the Titanic tragedy.
+
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
+
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Socialmedia - Exploratory Analysis]([Socialmedia Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb)): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+  		- [Titanic Dataset - Exploratory Data Analysis]([Titanic EDA Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_EDA.ipynb)): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
 		
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
 
