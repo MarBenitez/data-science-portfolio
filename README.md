@@ -8,15 +8,15 @@ Repository containing portfolio of data science projects completed by me for aca
 ## Contents
 
 - ### Machine Learning
+	- [Supervised Learning: Finding Donors for CharityML](https://github.com/MarBenitez/data-science-portfolio/blob/main/finding_donors/charityML.ipynb): Exploring a variety of supervised learning techniques to develop a predictive model for determining whether someone earns over $50,000 is crucial for identifying potential contributors to a fictional charity organization.
+	- [Supervised Learning: Titanic dataset](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_FE_ML.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts which passengers survived the Titanic tragedy.
 
-	- [Supervised Learning: Titanic dataset]([Titanic FE ML Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_FE_ML.ipynb)): Testing out several different supervised learning algorithms to build a model that accurately predicts which passengers survived the Titanic tragedy.
-
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Pygame_
+	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
 - ### Data Analysis and Visualisation
 	- __Python__
-		- [Socialmedia - Exploratory Analysis]([Socialmedia Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb)): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
-  		- [Titanic Dataset - Exploratory Data Analysis]([Titanic EDA Notebook](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_EDA.ipynb)): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
+		- [Socialmedia - Exploratory Analysis](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+  		- [Titanic Dataset - Exploratory Data Analysis](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_EDA.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
 		
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
 
