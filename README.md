@@ -28,6 +28,9 @@ Repository containing portfolio of data science projects completed by me for aca
      
 	- __Python + SQL__
 		 -  [Analysis Pedidos Database Python + SQL](https://github.com/MarBenitez/Analisis-DB-Pedidos-SQL-Python/blob/main/sql.ipynb): Analyzing SQL Database using mysql.connector in Python.
+ 
+	- __Python__
+   		- [Data Loading and Preprocessing](https://github.com/MarBenitez/load-preprocessing): Addressing common data handling problems.
 
 		
 	_Tools: Pandas, Seaborn, Sklearn, Matplotlib and mysql.connector_
