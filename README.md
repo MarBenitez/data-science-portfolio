@@ -26,7 +26,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	- __Python__
 		 -  [ML Using Decision Trees and Random Forests](https://github.com/MarBenitez/data-science-portfolio/blob/main/micro%20projects/lending%20loan%20ML/loan_ML_DC_RF.ipynb): Predicting whether a lender will pay their loan back. Uses publically available data from Kaggle.
      
-     		 - [Data Loading and Preprocessing](https://github.com/MarBenitez/load-preprocessing): Addressing common data handling problems.
+		 - [Data Loading and Preprocessing](https://github.com/MarBenitez/load-preprocessing): Addressing common data handling problems.
      
 	- __Python + SQL__
 		 -  [Analysis Pedidos Database Python + SQL](https://github.com/MarBenitez/Analisis-DB-Pedidos-SQL-Python/blob/main/sql.ipynb): Analyzing SQL Database using mysql.connector in Python.
