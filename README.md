@@ -17,6 +17,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	- __Python__
 		- [Socialmedia - Exploratory Analysis](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
   		- [Titanic Dataset - Exploratory Data Analysis](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_EDA.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
+  		- [Data Science salaries Dataset - Data visualization](https://github.com/MarBenitez/visualization-practice/tree/main): Applying data visualization techniques using Matplotlib, Seaborn, and Plotly.
 		
 	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
 
