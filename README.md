@@ -29,7 +29,7 @@ Repository containing portfolio of data science projects completed by me for aca
 		 - [Data Loading and Preprocessing](https://github.com/MarBenitez/load-preprocessing): Addressing common data handling problems.
      
 	- __Python + SQL__
-		 -  [Analysis Pedidos Database Python + SQL](https://github.com/MarBenitez/Analisis-DB-Pedidos-SQL-Python/blob/main/sql.ipynb): Analyzing SQL Database using mysql.connector in Python.
+		 -  [Analysis Pedidos Database Python + SQL](https://github.com/MarBenitez/Analisis-DB-Pedidos-SQL-Python): Analyzing SQL Database using mysql.connector in Python.
    		
 
 		
