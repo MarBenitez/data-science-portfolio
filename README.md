@@ -22,7 +22,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	- __Power BI__
 		- [Sales Dashboard in Power BI](https://github.com/MarBenitez/sales-dashboard-powerbi): The dashboard provides detailed visualizations of sales across different regions and allows users to explore and analyze the data effectively.
 		
-	_Tools: Pandas, Numpy, Seaborn and Matplotlib_
+	_Tools: Pandas, Numpy, Seaborn, Matplotlib and Power BI_
 
 
 - ### Micro Projects
