@@ -45,3 +45,26 @@ Repository containing portfolio of data science projects completed by me for aca
 
 		
 	_Tools: Pandas, Seaborn, Sklearn, Matplotlib and mysql.connector_
+
+
+## Connect with Me
+
+Thank you for visiting my GitHub portfolio! If you found my projects interesting or if you have any questions, feel free to reach out. I'm always excited to connect with fellow data enthusiasts and professionals.
+
+### Let's Collaborate!
+
+Whether it's about a challenging data problem, a potential collaboration, or just to share some cool data science stories, I'm all ears! 🚀
+
+- **Email:** [mar27benitez@gmail.com](mailto:mar27benitez@gmail.com)
+- **LinkedIn:** [Mar Benitez]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mar-benitez-506910192/))
+
+---
+
+Happy coding and may your data always be clean and insightful!
+
+Best regards,
+
+**[Mar Benitez]**  
+_Data Scientist, Lifelong Learner, and Problem Solver_
+
+![bye](https://github.com/MarBenitez/data-science-portfolio/blob/main/1200x675.jpg)
