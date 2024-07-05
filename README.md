@@ -56,7 +56,7 @@ Thank you for visiting my GitHub portfolio! If you found my projects interesting
 Whether it's about a challenging data problem, a potential collaboration, or just to share some cool data science stories, I'm all ears! 🚀
 
 - **Email:** [mar27benitez@gmail.com](mailto:mar27benitez@gmail.com)
-- **LinkedIn:** [Mar Benitez]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mar-benitez-506910192/))
+- **LinkedIn:** [Mar Benitez](https://www.linkedin.com/in/mar-benitez-506910192/)
 
 ---
 
