@@ -10,6 +10,7 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Machine Learning
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/MarBenitez/data-science-portfolio/blob/main/finding_donors/charityML.ipynb): Exploring a variety of supervised learning techniques to develop a predictive model for determining whether someone earns over $50,000 is crucial for identifying potential contributors to a fictional charity organization.
 	- [Supervised Learning: Titanic dataset](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_FE_ML.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts which passengers survived the Titanic tragedy.
+  	- [Gradient Boosting for Wine classification usind Wandb](https://github.com/MarBenitez/gradient-boosting-class-wine-wandb): This repository leverages Weights & Biases to systematically optimize and evaluate the hyperparameters of a Gradient Boosting Classifier.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
@@ -21,6 +22,10 @@ Repository containing portfolio of data science projects completed by me for aca
       
 	- __Power BI__
 		- [Sales Dashboard in Power BI](https://github.com/MarBenitez/sales-dashboard-powerbi): The dashboard provides detailed visualizations of sales across different regions and allows users to explore and analyze the data effectively.
+ 
+   	- __Streamlit__
+		- [Titanic App and EDA](https://github.com/MarBenitez/thorough-analysis-titanic): This repo contains a Streamlit application which provides a user-friendly interface for analyzing the Titanic data and a comprehensive EDA notebook.
+   	 	- Rio de Janeiro - Airbnb dataset: [EDA](https://github.com/MarBenitez/airbnb-rio-analysis-nb) and [Streamlit application](https://github.com/MarBenitez/airbnb-rio-streamlit-app).
 		
 	_Tools: Pandas, Numpy, Seaborn, Matplotlib and Power BI_
 
