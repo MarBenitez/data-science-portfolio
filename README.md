@@ -13,6 +13,8 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/MarBenitez/data-science-portfolio/blob/main/finding_donors/charityML.ipynb): Exploring a variety of supervised learning techniques to develop a predictive model for determining whether someone earns over $50,000 is crucial for identifying potential contributors to a fictional charity organization.
 	- [Supervised Learning: Titanic dataset](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_FE_ML.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts which passengers survived the Titanic tragedy.
   	- [Gradient Boosting for Wine classification usind Wandb](https://github.com/MarBenitez/gradient-boosting-class-wine-wandb): This repository leverages Weights & Biases to systematically optimize and evaluate the hyperparameters of a Gradient Boosting Classifier.
+	- [Data Analytics and Machine Learning for Insurance Customer Eligibility Prediction](https://github.com/MarBenitez/insurance-machine-learning): Developing a supervised binary rating model to predict which new customers can be offered a free premium split plan.
+
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
