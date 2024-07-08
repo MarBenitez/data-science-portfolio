@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks.
 
-![banner](https://github.com/MarBenitez/data-science-portfolio/blob/main/1698687032286.png)
+![banner](https://github.com/MarBenitez/data-science-portfolio/blob/main/1714068207697.jpg)
 
 ## Instructions for Running Python Notebooks Locally
 1. Install dependencies using requirements.txt.
