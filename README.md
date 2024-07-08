@@ -41,7 +41,9 @@ Repository containing portfolio of data science projects completed by me for aca
      
 		 - [Data Loading and Preprocessing](https://github.com/MarBenitez/load-preprocessing): Addressing common data handling problems.
 
-		 - [Convolutional Neural Network (CNN) and the MNIST dataset](https://github.com/MarBenitez/ocr-mnist-tensorflow/blob/main/ocr_mnist.ipynb): The project includes data preprocessing, model training, and deployment using an interactive Gradio interface.
+		 - [Convolutional Neural Network (CNN) and the MNIST dataset](https://github.com/MarBenitez/ocr-mnist-tensorflow/blob/main/): The project includes data preprocessing, model training, and deployment using an interactive Gradio interface.
+
+		 - [Real-Time Object Detection with YOLOv8 and OpenCV](https://github.com/MarBenitez/yolo-red-knife-detection/tree/main): The project demonstrates how to use a pre-trained YOLO model to detect various objects in a live video stream from a webcam.
 
 	- __Python + SQL__
 		 -  [Analysis Pedidos Database Python + SQL](https://github.com/MarBenitez/Analisis-DB-Pedidos-SQL-Python): Analyzing SQL Database using mysql.connector in Python.
