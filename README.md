@@ -26,6 +26,7 @@ Repository containing portfolio of data science projects completed by me for aca
   		- [Data Science salaries Dataset - Data visualization](https://github.com/MarBenitez/visualization-practice/tree/main): Applying data visualization techniques using Matplotlib, Seaborn, and Plotly.
       
 	- __Power BI__
+  		- [Sales data Dashboard in Power BI](https://github.com/MarBenitez/salesdata-dashboard-powerbi/tree/main): This dashboard offers users the ability to explore and understand key trends, patterns, and insights that are critical for data-driven decision-making.
   		- [Financial Dashboard in Power BI](https://github.com/MarBenitez/financial-report1-powerbi): The dashboard allows users to gain significant insights and perform detailed data analysis.
    		- [Sales Dashboard in Power BI](https://github.com/MarBenitez/sales-dashboard-powerbi): The dashboard provides detailed visualizations of sales across different regions and allows users to explore and analyze the data effectively.
  
