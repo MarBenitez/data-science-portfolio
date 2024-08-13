@@ -19,7 +19,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
 
-- ### Data Analysis and Visualisation
+- ### Data Analysis and Visualization
 	- __Python__
 		- [Socialmedia - Exploratory Analysis](https://github.com/MarBenitez/data-science-portfolio/blob/main/socialmedia%20EDA/socialmedia_EDA.ipynb): Exploratory Data Analysis of the social media dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
   		- [Titanic Dataset - Exploratory Data Analysis](https://github.com/MarBenitez/data-science-portfolio/blob/main/titanic/titanic_EDA.ipynb): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
@@ -36,6 +36,11 @@ Repository containing portfolio of data science projects completed by me for aca
 		
 	_Tools: Pandas, Numpy, Seaborn, Matplotlib and Power BI_
 
+- ### Docker
+
+  	- [Sentiment Analysis API](https://github.com/MarBenitez/sentiment-analysis-docker): Developed a sentiment analysis API using Flask and Hugging Face transformers, containerized with Docker for production deployment.
+
+	_Tools: Flask, Hugging Face Transformers, Docker_
 
 - ### Micro Projects
 
