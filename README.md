@@ -74,7 +74,3 @@ Best regards,
 _Data Scientist, Lifelong Learner, and Problem Solver_
 
 ![bye](https://github.com/MarBenitez/data-science-portfolio/blob/main/1200x675.jpg)
-
-
-
-![bye](https://github.com/MarBenitez/data-science-portfolio/blob/main/1200x675.jpg)
